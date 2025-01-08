@@ -1,5 +1,5 @@
 Package: expkg
-Version: 0.1.0
+Version: 0.1.1
 Title: Example package for exploring an testing an S4 method dispatch issue
 Authors@R: c(person("Robert", "Castelo", role=c("aut", "cre"), email="robert.castelo@upf.edu"),
              person("Axel", "Klenk", role="ctb", email="axelvolker.klenk@upf.edu"))
