@@ -2,3 +2,4 @@
 
 exportClasses(A)
 exportClasses(C)
+import(methods)

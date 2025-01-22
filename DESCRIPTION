@@ -1,10 +1,9 @@
 Package: expkg
-Version: 0.1.2
+Version: 0.1.4
 Title: Example package for exploring an testing an S4 method dispatch issue
 Authors@R: c(person("Robert", "Castelo", role=c("aut", "cre"), email="robert.castelo@upf.edu"),
              person("Axel", "Klenk", role="ctb", email="axelvolker.klenk@upf.edu"))
-Depends: R (>= 3.5.0)
-Imports: methods
+Depends: R (>= 3.5.0), methods
 Description: Example package for exploring an testing an S4 method dispatch issue
 License: GPL (>= 2)
 URL: https://github.com/axelklenk/expkg

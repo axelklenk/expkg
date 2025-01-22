@@ -1,4 +1,7 @@
 
+#' @import methods
+NULL
+
 #' `A` class
 #'
 #' A test class, superclass of test class `C`.
